@@ -5,5 +5,5 @@ Este módulo contiene los notebooks y scripts usados para recolectar los datos n
 ## 🧪 Contenido:
 
 - Extracción de datos mediante API REST de SpaceX
-- Web scraping usando Beautiful Soup
+- Web scraping desde Wikipedia usando Beautiful Soup
 - Transformación y limpieza de los datos
