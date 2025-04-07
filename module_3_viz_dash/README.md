@@ -12,3 +12,5 @@ Aquí analizamos los datos de los lanzamientos del cohete **Falcon 9** de SpaceX
 También se incluyen visualizaciones interactivas con **Folium** y un pequeño **dashboard con Dash**.
 
 El objetivo es ayudar a decidir cuál es el mejor sitio de lanzamiento para aumentar la tasa de éxito.
+
+📍 [Ver mapa interactivo](module_3_viz_dash/mapa_lanzamientos.html)
