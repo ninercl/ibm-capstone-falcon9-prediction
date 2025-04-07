@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Dash](https://img.shields.io/badge/Dash-Dashboard-lightgrey)
-![Status](https://img.shields.io/badge/Estado-En%20progreso-yellow)
+![Status](https://img.shields.io/badge/Estado-En%20terminado-green)
 ![IBM Skills Network](https://img.shields.io/badge/Labs-IBM%20Skills%20Network-blue?logo=ibm)
 
 Este proyecto forma parte del módulo final del **IBM Data Science Professional Certificate**.
