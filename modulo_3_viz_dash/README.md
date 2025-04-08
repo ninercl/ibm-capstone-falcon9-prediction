@@ -8,4 +8,4 @@ Archivos principales:
 - `spacex_dash_app.py`: código de la app
 - `spacex_launch_dash.csv`: conjunto de datos
 
-Este módulo está pensado para correr localmente durante la etapa de desarrollo.
+Este módulo está pensado para correr localmente durante la etapa de desarrollo
