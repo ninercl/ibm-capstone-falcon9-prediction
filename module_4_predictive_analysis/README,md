@@ -1,0 +1,18 @@
+# 🚀 Falcon 9 First Stage Landing Prediction - IBM Data Science Capstone
+
+Este proyecto corresponde al trabajo final del **IBM Data Science Professional Certificate**. El objetivo es aplicar las habilidades adquiridas a lo largo del programa para resolver un problema real: **predecir si la primera etapa del cohete Falcon 9 aterrizará exitosamente**.
+
+## 📌 Objetivos del Proyecto
+
+- Utilizar datos históricos de lanzamientos de SpaceX.
+- Realizar un análisis exploratorio y visualización de datos.
+- Desarrollar modelos de Machine Learning para predecir el éxito del aterrizaje.
+- Comunicar los resultados mediante visualizaciones y dashboards.
+
+## 🧰 Herramientas y Tecnologías
+
+- Python (Pandas, NumPy, Scikit-Learn, Seaborn, Matplotlib)
+- SQL para consultas exploratorias
+- Folium para visualización geoespacial
+- Dash para dashboards interactivos
+- Git & GitHub para control de versiones
