@@ -16,4 +16,19 @@ El objetivo del proyecto es predecir si la primera etapa del cohete Falcon 9 ate
 ---
 
 ## 📁 Estructura del Proyecto
+## 📁 Estructura del Proyecto
+
+- `Módulo 1`: Recolección de datos (API SpaceX + Web Scraping Wikipedia)  
+- `Módulo 2`: Limpieza, normalización y estructura de los datos  
+- `Módulo 3`: EDA (Análisis Exploratorio de Datos)  
+- `Módulo 4`: Entrenamiento de modelos ML  
+- `Módulo 5`: Visualización con Dash (Plotly)
+
+---
+
+## 👨‍💻 Autor
+
+Rodrigo Arriaza Rojas  
+Proyecto desarrollado como parte del certificado de IBM.  
+Template base cortesía de IBM – Pratiksha Verma (2022)
 
